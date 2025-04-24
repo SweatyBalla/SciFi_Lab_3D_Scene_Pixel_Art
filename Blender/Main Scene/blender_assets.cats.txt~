@@ -6,9 +6,17 @@
 
 VERSION 1
 
+61354515-33de-4806-aeb7-055569de447a:!Textures:!Textures
+1b56f485-0a1a-4bd3-922f-2fd897fbf4b2:!Textures/Bump:!Textures-Bump
+d5ef621b-c783-4da8-989f-6b9ebed9b2dc:!Textures/Colour:!Textures-Colour
+b6e55d90-3944-4caa-92d1-3236d0b2cc22:!Textures/Roughness:!Textures-Roughness
+d7248ca9-9e4d-4308-bdab-e0e4dcd97d95:Building:Building
+8cbd0c0b-1553-4c83-b463-e682c202906a:Decor:Decor
+58172471-0350-4880-be4c-8e8280668129:Easter Eggs:Easter Eggs
 f9296f43-5b3e-41d8-9f01-d05e5a820f67:Electronic Appliances:Electronic Appliances
+3edeeebf-7f4c-4e32-beba-c76f6bdf88f1:Furniture:Furniture
+71c85e7f-853c-4cf6-b68b-75a2e2e2b8a0:Junk:Junk
+d2dae84a-d8fc-42b8-a1d2-967cff34af1a:Plants:Plants
+31cfa39e-c0e3-4af4-9c17-53d2cd5f9d50:Science Equipment:Science Equipment
 765245a1-d018-4773-b5fc-398bc0d191f0:Security:Security
-61354515-33de-4806-aeb7-055569de447a:Textures:Textures
-1b56f485-0a1a-4bd3-922f-2fd897fbf4b2:Textures/Bump:Textures-Bump
-d5ef621b-c783-4da8-989f-6b9ebed9b2dc:Textures/Colour:Textures-Colour
-b6e55d90-3944-4caa-92d1-3236d0b2cc22:Textures/Roughness:Textures-Roughness
+b6ff6a00-c126-4821-aa07-27d29889fc69:Wall Decor:Wall Decor
