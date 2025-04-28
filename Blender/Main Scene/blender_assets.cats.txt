@@ -17,6 +17,7 @@ f9296f43-5b3e-41d8-9f01-d05e5a820f67:Electronic Appliances:Electronic Appliances
 3edeeebf-7f4c-4e32-beba-c76f6bdf88f1:Furniture:Furniture
 6a3ffa4a-4c5e-4a1a-a2c7-336ddaebc5a2:INK:INK
 71c85e7f-853c-4cf6-b68b-75a2e2e2b8a0:Junk:Junk
+9a424ff2-8a11-40dc-a418-caca12afdf7a:Medical:Medical
 d2dae84a-d8fc-42b8-a1d2-967cff34af1a:Plants:Plants
 31cfa39e-c0e3-4af4-9c17-53d2cd5f9d50:Science Equipment:Science Equipment
 765245a1-d018-4773-b5fc-398bc0d191f0:Security:Security
