@@ -25,8 +25,9 @@ How to Open the Scene
 =-=-=-=-=-=-=-=-=-=-=
 > Open Blender 4.2 or above
  > Press Ctrl + O to open file
-  > Locate and open "Project Blender Scene" Folder
-   > Select the Blender file
+  > Open "Final Deliverable Jim P2725916" Folder
+   > Locate and open "Project Blender Scene" Folder
+    > Select the Blender file
 
 
 How to Navigate the Scene
