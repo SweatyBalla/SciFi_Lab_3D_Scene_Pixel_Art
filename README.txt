@@ -21,6 +21,13 @@ The potential game for this scene is a Wave Survival
 
 # Navigation
 
+How to Open Testing, Validation & Critical Reflection PDF
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+> Open "Final Deliverable Jim P2725916" Folder
+ > Open "Documents" Folder
+  > Open "Testing & Validation & Critical Reflection" PDF 
+
+
 How to Open the Scene
 =-=-=-=-=-=-=-=-=-=-=
 > Open Blender 4.2 or above
